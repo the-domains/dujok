@@ -11,6 +11,8 @@ color:
     - '#5C6B73'
     - '#253237'
 layout_spectrum: 0.783667029812932
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d2af9fe-907c-42ca-8e2b-eb66f77b6b15.png
 name: Dujok
 navigation:
   - name: Fasstrack
