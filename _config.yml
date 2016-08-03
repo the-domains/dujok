@@ -12,5 +12,9 @@ color:
     - '#253237'
 layout_spectrum: 0.783667029812932
 name: Dujok
+navigation:
+  - name: About us
+    url: 'http://www.as.com'
+    type: external
 title: DUJOK Payments
 description: Boost your businnes
