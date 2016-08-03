@@ -1,4 +1,3 @@
-layout_spectrum: 0.783667029812932
 typography_spectrum: 0.5423743261490017
 color:
   brandStrength: 0.21264484524726868
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.783667029812932
 name: Dujok
 title: DUJOK Payments
+description: Boost your businnes
