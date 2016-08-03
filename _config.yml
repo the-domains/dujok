@@ -16,5 +16,8 @@ navigation:
   - name: About us
     url: 'http://www.as.com'
     type: external
+  - name: Contact
+    url: 'http://www.marca.com'
+    type: external
 title: DUJOK Payments
 description: Boost your businnes
