@@ -16,5 +16,8 @@ navigation:
   - name: About us
     url: 'http://www.as.com'
     type: external
+  - name: About us
+    id: a64b8149-9506-4abf-bbea-b39645d009f9
+    type: content
 title: DUJOK Payments
 description: Boost your businnes
